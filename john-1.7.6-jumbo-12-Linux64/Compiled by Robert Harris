@@ -1,0 +1,11 @@
+2011-02-20: 1.7.6 with the jumbo 12 patch
+ 
+    john-1.7.6.tar.gz with the patch:
+        john-1.7.6-jumbo-12.diff
+                            
+   (This version contains the Linux x86 64-bit SSE2 build of John the Ripper, compiled in Owl v3.0 x86 64-bit with an upgraded version of Openssl)
+    This version is staticly linked to OpenSSL v1.0.0d        
+    Compiled by: Robert B. Harris from VA
+
+http://openwall.info/wiki/john/custom-builds
+
